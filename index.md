@@ -5,7 +5,6 @@
 
 learn how to use markdown header
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 ```
@@ -17,5 +16,19 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 public Integer checkDelete(Long ownerBuildingMarkupsId) {
         List<MarkupFormulaItem> markupFormulaItems = markupFormulaItemWorker.getMarkupFormulaItems(null, ownerBuildingMarkupsId);
         return markupFormulaItems.size();
-    }
+}
 ```
+
+- [x] java
+- [x] python
+- [ ] php
+
+
+
+
+
+
+
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
